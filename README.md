@@ -96,7 +96,7 @@ RongRoi รันทุกเทคนิคที่พวกเขาใช้
 **วิธีที่ 1 — เปิดไฟล์ตรง ๆ**
 
 ```bash
-git clone https://github.com/NEXTERZ/rongroi.git
+git clone https://github.com/nexterz-th/RongRoi.git
 cd rongroi
 
 start index.html        # Windows
