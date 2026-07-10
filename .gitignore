@@ -1,0 +1,12 @@
+# Editor / OS
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# Local tooling (not part of the site)
+.claude/
+node_modules/
+
+# Logs
+*.log
